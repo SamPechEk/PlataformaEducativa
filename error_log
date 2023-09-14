@@ -1,0 +1,46 @@
+[30-Dec-2017 16:38:05 UTC] PHP Fatal error:  Class 'App\Model\Programa' not found in /home/sinfonic/public_html/web/app/Http/Controllers/MapaController.php on line 32
+[30-Dec-2017 22:16:38 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/sinfonic/public_html/web/storage/framework/views/b396247b6aba9772cdb9426cab50d9af8fed322c.php on line 114
+[30-Dec-2017 16:33:18 America/Merida] PHP Fatal error:  Class 'App\Model\DB' not found in /home/sinfonic/public_html/web/app/Model/BusinessObjectVentas.php on line 34
+[30-Dec-2017 16:34:09 America/Merida] PHP Fatal error:  Class 'App\Model\DB' not found in /home/sinfonic/public_html/web/app/Model/BusinessObjectVentas.php on line 34
+[30-Dec-2017 16:39:21 America/Merida] PHP Fatal error:  Class 'App\Model\DB' not found in /home/sinfonic/public_html/web/app/Model/BusinessObjectVentas.php on line 34
+[30-Dec-2017 16:41:56 America/Merida] PHP Fatal error:  Class 'App\Model\DB' not found in /home/sinfonic/public_html/web/app/Model/BusinessObjectVentas.php on line 34
+[31-Dec-2017 00:56:48 America/Merida] PHP Fatal error:  Class 'App\Model\ButacaXZona' not found in /home/sinfonic/public_html/web/app/Model/BusinessObjectVentas.php on line 47
+[02-Jan-2018 07:04:08 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/sinfonic/public_html/web/app/Http/Controllers/MapaController.php on line 119
+[02-Jan-2018 02:14:12 America/Merida] PHP Fatal error:  Class 'App\Http\Controllers\Movimiento' not found in /home/sinfonic/public_html/web/app/Http/Controllers/MapaController.php on line 159
+[03-Jan-2018 04:03:34 UTC] PHP Fatal error:  Class 'Fpdf' not found in /home/sinfonic/public_html/web/app/Model/PdfBoleto.php on line 13
+[03-Jan-2018 04:04:53 UTC] PHP Fatal error:  Class 'Fpdf' not found in /home/sinfonic/public_html/web/app/PdfBoleto.php on line 13
+[03-Jan-2018 04:20:12 UTC] PHP Fatal error:  Class 'App\Model\PdfBoleto' not found in /home/sinfonic/public_html/web/app/Http/Controllers/MapaController.php on line 217
+[03-Jan-2018 04:20:17 UTC] PHP Fatal error:  Class 'App\Model\PdfBoleto' not found in /home/sinfonic/public_html/web/app/Http/Controllers/MapaController.php on line 217
+[03-Jan-2018 06:24:13 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DateTime' not found in /home/sinfonic/public_html/web/app/Http/Controllers/VentaTaquillaController.php on line 264
+[09-Jan-2018 20:59:02 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/sinfonic/public_html/web/app/Http/Controllers/EntregasController.php on line 144
+[09-Jan-2018 20:59:35 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/sinfonic/public_html/web/app/Http/Controllers/EntregasController.php on line 144
+[09-Jan-2018 21:06:00 UTC] PHP Fatal error:  Class 'App\Http\Controllers\BusinessObjectTickets' not found in /home/sinfonic/public_html/web/app/Http/Controllers/EntregasController.php on line 147
+[09-Jan-2018 15:21:06 America/Merida] PHP Fatal error:  Class 'App\Http\Controllers\PdfBoleto' not found in /home/sinfonic/public_html/web/app/Http/Controllers/EntregasController.php on line 305
+[09-Jan-2018 15:47:54 America/Merida] PHP Fatal error:  Cannot redeclare Anouar\Fpdf\Fpdf::_putresources() in /home/sinfonic/public_html/web/vendor/anouar/fpdf/src/Anouar/Fpdf/Fpdf.php on line 1976
+[09-Jan-2018 15:51:45 America/Merida] PHP Fatal error:  Call to undefined method Anouar\Fpdf\Fpdf::_put() in /home/sinfonic/public_html/web/vendor/anouar/fpdf/src/Anouar/Fpdf/Fpdf.php on line 1272
+[09-Jan-2018 15:54:10 America/Merida] PHP Fatal error:  Call to undefined method Anouar\Fpdf\Fpdf::out() in /home/sinfonic/public_html/web/vendor/anouar/fpdf/src/Anouar/Fpdf/Fpdf.php on line 1272
+[09-Jan-2018 15:54:57 America/Merida] PHP Fatal error:  Call to undefined method Anouar\Fpdf\Fpdf::_put() in /home/sinfonic/public_html/web/vendor/anouar/fpdf/src/Anouar/Fpdf/Fpdf.php on line 1273
+[09-Jan-2018 23:09:54 America/Mexico_City] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM) in /home/sinfonic/public_html/web/app/Model/helpers.php on line 10
+[09-Jan-2018 23:10:02 America/Mexico_City] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM) in /home/sinfonic/public_html/web/app/Model/helpers.php on line 10
+[10-Jan-2018 05:18:29 UTC] PHP Fatal error:  Call to undefined method Illuminate\Support\Facades\Request::session() in /home/sinfonic/public_html/web/app/Model/helpers.php on line 10
+[10-Jan-2018 03:52:51 America/Merida] PHP Fatal error:  Class 'App\Http\Controllers\OrdenCompra' not found in /home/sinfonic/public_html/web/app/Http/Controllers/VentaTaquillaController.php on line 316
+[10-Jan-2018 03:53:50 America/Merida] PHP Fatal error:  Class 'App\Http\Controllers\OrdenCompra' not found in /home/sinfonic/public_html/web/app/Http/Controllers/VentaTaquillaController.php on line 316
+[10-Jan-2018 15:01:35 America/Merida] PHP Parse error:  syntax error, unexpected ''VentaTaquillaController@blank' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) in /home/sinfonic/public_html/web/storage/framework/views/99f0ff6a3c781726d486cb03f57da6f78052b279.php on line 387
+[10-Jan-2018 15:02:41 America/Merida] PHP Parse error:  syntax error, unexpected '" sandbox="' (T_CONSTANT_ENCAPSED_STRING) in /home/sinfonic/public_html/web/storage/framework/views/99f0ff6a3c781726d486cb03f57da6f78052b279.php on line 387
+[11-Jan-2018 22:41:05 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\array_key_exist() in /home/sinfonic/public_html/web/app/Http/Controllers/CorteCajaController.php on line 60
+[12-Jan-2018 21:04:14 UTC] PHP Parse error:  syntax error, unexpected '>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/sinfonic/public_html/web/storage/framework/views/950cddee4a2c398a92d699df383a37636b4c054d.php on line 6
+[14-Jan-2018 05:50:26 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/sinfonic/public_html/web/storage/framework/views/dff708ed4a966bfb9a81883002031f772a709d94.php on line 54
+[14-Jan-2018 05:51:12 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/sinfonic/public_html/web/storage/framework/views/dff708ed4a966bfb9a81883002031f772a709d94.php on line 57
+[14-Jan-2018 05:51:30 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/sinfonic/public_html/web/storage/framework/views/dff708ed4a966bfb9a81883002031f772a709d94.php on line 64
+[14-Jan-2018 05:54:30 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/sinfonic/public_html/web/storage/framework/views/dff708ed4a966bfb9a81883002031f772a709d94.php on line 31
+[14-Jan-2018 05:54:54 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/sinfonic/public_html/web/storage/framework/views/dff708ed4a966bfb9a81883002031f772a709d94.php on line 64
+[14-Jan-2018 05:55:39 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/sinfonic/public_html/web/storage/framework/views/dff708ed4a966bfb9a81883002031f772a709d94.php on line 64
+[14-Jan-2018 06:13:28 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sinfonic/public_html/web/storage/framework/views/dff708ed4a966bfb9a81883002031f772a709d94.php on line 71
+[14-Jan-2018 23:22:57 UTC] PHP Parse error:  syntax error, unexpected 'DB' (T_STRING), expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home/sinfonic/public_html/web/app/Http/Controllers/CancelacionesController.php on line 64
+[14-Jan-2018 17:34:55 America/Merida] PHP Fatal error:  Class 'App\Http\Controllers\Movimiento' not found in /home/sinfonic/public_html/web/app/Http/Controllers/CancelacionesController.php on line 31
+[14-Jan-2018 17:36:28 America/Merida] PHP Fatal error:  Class 'App\Http\Controllers\Bitacora' not found in /home/sinfonic/public_html/web/app/Http/Controllers/CancelacionesController.php on line 48
+[15-Jan-2018 02:41:40 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Session as Session because the name is already in use in /home/sinfonic/public_html/web/app/Http/Controllers/CancelacionesController.php on line 13
+[15-Jan-2018 02:44:27 UTC] PHP Fatal error:  Class 'App\Model\Controller' not found in /home/sinfonic/public_html/web/app/Model/BusinessObjectBitacora.php on line 6
+[15-Jan-2018 06:18:37 UTC] PHP Fatal error:  Cannot use App\Model\Movimiento as Movimiento because the name is already in use in /home/sinfonic/public_html/web/app/Http/Controllers/MapaController.php on line 11
+[15-Jan-2018 11:24:22 America/Merida] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/sinfonic/public_html/web/storage/framework/views/99f0ff6a3c781726d486cb03f57da6f78052b279.php on line 147
+[15-Jan-2018 18:05:14 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\array_key_exist() in /home/sinfonic/public_html/web/app/Http/Controllers/ReservacionesController.php on line 46

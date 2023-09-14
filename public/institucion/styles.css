@@ -1,0 +1,31 @@
+
+#dropzone{
+    border-radivs:5px;
+    padding: 40px;
+    border-width: 2px;
+    border-style: dashed;
+
+
+}
+.inactivo{
+    background-color:#18ffff;
+}
+.conarchivo{
+    background-color: #f48fb1;
+    border-color: #b4004e;
+}
+.leave{
+    background-color: #b2ff59;
+    border-color: #7ecb20;
+}
+.invalido{
+    background-color: #ba000d;
+    border-color: #f44336;
+}
+#foto{
+    display: none;
+}
+#carga_file{
+    cursor: pointer;
+
+}
